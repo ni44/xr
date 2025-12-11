@@ -1,0 +1,12 @@
+{
+   "asset_name": "pink_lemonade",
+   "description": {
+      "color": "pink_lemonade",
+      "translate": "trim_material.pink_lemonade"
+   },
+   "ingredient": "minecraft:crying_obsidian",
+   "item_model_index": 0.6,
+   "override_armor_materials": {
+      "netherite": "netherite_darker"
+   }
+}
