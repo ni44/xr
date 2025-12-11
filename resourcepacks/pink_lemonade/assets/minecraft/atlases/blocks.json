@@ -37,7 +37,7 @@
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
-        "quartz": "trims/color_palettes/quartz",
+        "quartz": "trims/color_palettes/gold",
         "iron": "trims/color_palettes/iron",
         "gold": "trims/color_palettes/gold",
         "diamond": "trims/color_palettes/diamond",
@@ -50,8 +50,7 @@
         "iron_darker": "trims/color_palettes/iron_darker",
         "gold_darker": "trims/color_palettes/gold_darker",
         "diamond_darker": "trims/color_palettes/diamond_darker",
-        "netherite_darker": "trims/color_palettes/netherite_darker",
-        "pink_lemonade": "trims/color_palettes/pink_lemonade"
+        "netherite_darker": "trims/color_palettes/netherite_darker"
       }
     }
   ]
